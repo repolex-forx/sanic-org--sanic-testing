@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sanic-org/sanic-testing/commit/66b72d22979f594b8ea45283c7a2f7db6f13c5e3",
       "git:hexsha": "66b72d22979f594b8ea45283c7a2f7db6f13c5e3",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v24.6.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v24.6.0",
+      "repolex:parsedAt": "2026-10-19T13:14:36.296773+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sanic-org/sanic-testing/commit/ec6b92cefa4dfffb436c4b0cf15d713c5baba1f9",
